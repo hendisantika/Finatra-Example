@@ -1,0 +1,19 @@
+INF [20161228-20:51:50.842] finatra: finatra process 1951 started
+INF [20161228-20:51:50.844] finatra: http server started on port: :9000
+INF [20161228-20:51:51.312] finatra: admin http server started on port: :9990
+INF [20161228-20:52:41.218] finatra: GET /api 200 174ms
+INF [20161228-20:52:41.462] finatra: GET /favicon.ico 404 0ms
+INF [20161228-20:53:25.150] finatra: GET /api 200 4ms
+INF [20161229-08:04:24.551] finatra: finatra process 24210 started
+INF [20161229-08:04:24.554] finatra: http server started on port: :9000
+INF [20161229-08:04:25.051] finatra: admin http server started on port: :9990
+INF [20161229-08:04:53.849] finatra: GET /api 200 111ms
+INF [20161229-08:05:38.714] finatra: GET /api 200 4ms
+INF [20161229-08:23:19.456] finatra: finatra process 26650 started
+INF [20161229-08:23:19.458] finatra: http server started on port: :9000
+INF [20161229-08:23:19.921] finatra: admin http server started on port: :9990
+INF [20161229-08:23:34.291] finatra: GET /api 200 176ms
+INF [20161229-08:58:07.168] finatra: finatra process 30118 started
+INF [20161229-08:58:07.170] finatra: http server started on port: :9000
+INF [20161229-08:58:07.527] finatra: admin http server started on port: :9990
+INF [20161229-08:59:33.203] finatra: GET /api 200 59ms

@@ -123,8 +123,7 @@ Check out our list of presentations: [Finatra Presentations](http://twitter.gith
 
 ## Authors
 
-* Steve Cosenza <https://github.com/scosenza>
-* Christopher Coco <https://github.com/cacoco>
+* Hendi Santika <https://github.com/hendisantika>
 
 A full list of [contributors](https://github.com/twitter/finatra/graphs/contributors?type=a) can be found on GitHub.
 
